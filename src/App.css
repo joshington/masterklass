@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200;300;400&display=swap');
+
+.content{
+    height: 100vh;
+    padding-left: 220px;
+}
+body{
+    margin: 0.7rem;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+h1,h2,h3,h4,h5,h6,a,ul,li{
+    margin: 0;
+    padding: 0;
+} */
